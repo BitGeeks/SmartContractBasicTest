@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "viAssetExists",
+        "transactionLabel": "A test viAssetExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createViAsset",
+        "transactionLabel": "A test createViAsset transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readViAsset",
+        "transactionLabel": "A test readViAsset transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateViAsset",
+        "transactionLabel": "A test updateViAsset transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteViAsset",
+        "transactionLabel": "A test deleteViAsset transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
